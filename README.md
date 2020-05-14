@@ -1,4 +1,4 @@
-# Sprint Challenge: Hash Tables
+# Sprint Challenge: Hash Tables 
 
 This challenge allows you to practice the concepts and techniques
 learned over the past week and apply them to concrete examples.

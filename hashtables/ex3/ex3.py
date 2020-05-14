@@ -1,8 +1,9 @@
 def intersection(arrays):
+    d = {}
+    result = []
 
-    """
-    YOUR CODE HERE
-    """
+    for x in range(len(arrays)):
+        d[x]
 
     return result
 
